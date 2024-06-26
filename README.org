@@ -1,5 +1,6 @@
 * This is a "Word Count" CLI tool just as "wc" in linux
 ** Currently only supports "word counts" only
+- This is for basics for file handling in golang !!!
 * How to run ??
 You just need golang compiler for this.
 Just run :
