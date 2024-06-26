@@ -5,7 +5,7 @@
 You just need golang compiler for this.
 Just run :
 #+begin_src go
-go main.go <path_of_your_file>
+go run main.go <path_of_your_file>
 #+end_src
 * Future Plans
 - Support for  "total number of lines"
