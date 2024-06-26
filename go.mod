@@ -1,0 +1,3 @@
+module wc_project
+
+go 1.22.3
